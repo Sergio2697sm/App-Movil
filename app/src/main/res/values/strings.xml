@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="texto">Todas las notas</string>
+    <string name="nombre_titulo">Título</string>
+    <string name="btn_add">Añadir nota</string>
+    <string name="btn_regresar">Atras</string>
+</resources>
