@@ -1,10 +1,10 @@
 package com.example.myapp;
 
-public class nota {
+public class Nota {
     String titulo;
     String descripcion;
 
-    public nota(String titulo, String descripcion) {
+    public Nota(String titulo, String descripcion) {
         this.titulo = titulo;
         this.descripcion = descripcion;
     }
